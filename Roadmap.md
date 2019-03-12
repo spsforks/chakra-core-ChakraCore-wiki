@@ -54,6 +54,12 @@ The following is a summary of the ChakraCore team's backlog for the next 6 month
 
 ## ChakraCore 1.11
 
+### [v1.11.7](https://github.com/Microsoft/ChakraCore/releases/tag/v1.11.7)
+This patch release of ChakraCore 1.11 includes the following security fixes:
+
+#### Security
+- Changes to address CVE-2019-0592, CVE-2019-0609, CVE-2019-0611, CVE-2019-0639, CVE-2019-0746, CVE-2019-0769, CVE-2019-0773, CVE-2019-0771 [#6016](https://github.com/Microsoft/ChakraCore/pull/6016)
+
 ### [v1.11.6](https://github.com/Microsoft/ChakraCore/releases/tag/v1.11.6)
 This patch release of ChakraCore 1.11 includes the following security fixes:
 
